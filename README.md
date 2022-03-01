@@ -1,0 +1,1 @@
+<img src="./src/img/redux_1.png" />
