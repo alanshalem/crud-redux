@@ -9,6 +9,7 @@ const Productos = () => {
 	useEffect(() => {
 		const cargarProductos = () => dispatch(obtenerProductosAction());
 		cargarProductos();
+		// eslint-disable-next-line
 	}, []);
 
 	// Obtenemos el state
