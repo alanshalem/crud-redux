@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const clienteAxios = axios.create({
-	baseURL: "http://localhost:4000/",
+	baseURL: import.meta.VITE_API_URL,
 });

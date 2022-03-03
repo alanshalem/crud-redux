@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "nombre": "Jugo de Fresa",
+      "nombre": "Jugo de Fresa 1l",
       "precio": "320",
       "id": 5
     },
@@ -11,7 +11,7 @@
       "id": 6
     },
     {
-      "nombre": "Jugo de Piña 1L",
+      "nombre": "Jugo de Piña 1l",
       "precio": 150,
       "id": 8
     },
