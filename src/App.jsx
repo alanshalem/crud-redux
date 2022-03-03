@@ -8,6 +8,7 @@ import { Provider } from "react-redux";
 import store from "./store";
 
 function App() {
+	// console.log(import.meta.env);
 	return (
 		<Router>
 			<Provider store={store}>
