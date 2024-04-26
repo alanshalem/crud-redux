@@ -2,8 +2,6 @@
 
 <h2>CRUD-REDUX: STACK: REACT.JS - AXIOS - REDUX - REACT-ROUTER-DOM - SWEETALERT2</h2>
 
-[IR AHORA](https://crud-redux-alanshalem.netlify.app/)
-
 # .env.development.local
 ```sh
 http://localhost:4000
